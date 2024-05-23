@@ -5,13 +5,8 @@ Created on Thu May 23 11:07:19 2024
 @author: willom
 """
 # Function to add three numbers
-<<<<<<< Updated upstream
-# Default values
-def add(a=1,b=2,c=3):
-=======
 # Better defaults
 def add(a=0,b=0,c=0):
->>>>>>> Stashed changes
     ans = a+b+c
     return ans
 
